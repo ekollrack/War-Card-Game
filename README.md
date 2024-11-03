@@ -30,7 +30,7 @@ sys, csv, matplotlib, numpy, tabulate
 
 ## Languages
 
-- **C++**: Handles the game mechanics, deck and card logic, and data logging.
+- **C++**: Handles game play.
 - **Python**: Processes game data for analysis and visualization.
 
 ## Sources
