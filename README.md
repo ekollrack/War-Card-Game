@@ -11,7 +11,7 @@ A **Python** script processes this data, creating tables and graphs to visualize
 ## Project Components
 
 ### 1. **Game Mechanics (C++)**
-The deck is shuffled and each player takes half the deck. Then they each play their top card, face up, and the player with the highest card value (suits don't matter) takes both cards into their "pile," and this process continues. If the players play the same value card, it is called a "War." The players then each place 3 cards face down and 1 card face up. The player with the higher face up card takes all the cards. The goal of the game is for one player to run out of cards, which would make the other player win. My program replicates this card game.
+The deck is shuffled and each player takes half the deck. Then they each play their top card, face up, and the player with the highest card value (suits don't matter) takes both cards into their "pile," and this process continues. If the players play the same value card, it is called a "War." The players then each place 3 cards face down and 1 card face up. The player with the higher face up card takes all the cards. The goal of the game is for one player to run out of cards, which would make the other player win.
 
 ### 2. **Data Logging (C++)**
    - **Round Data Export**: Each round’s card counts are logged in `hand_counts.csv` to track how many cards each player holds throughout the game.
