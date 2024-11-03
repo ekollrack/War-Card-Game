@@ -1,0 +1,6 @@
+Player 1 wins: 1
+Computer wins: 0
+Player 1 wars won: 0
+Computer wars won: 0
+Rounds played: 1
+Win Difference: 1
